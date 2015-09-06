@@ -1,7 +1,7 @@
 # Espresso-II-partial-implementation
-Espressso-II algorithm to simplificate Boolean Functions.
+Espressso-II algorithm to simplify Boolean Functions.
 
-The types to work with Espresso-II are done, but just some functions are working.
+The types to work with Espresso-II are done, but only some functions are working.
 
 -Merge with Identity.
 -Merge with Containment.
@@ -13,4 +13,4 @@ It works with the compiler set with -std=c++11.
 
 #How to use it.
 
-you'll have to set your own path to be able to use the .txt files.
+You'll have to set your own path to be able to use the .txt files.
