@@ -1,7 +1,7 @@
 # Espresso-II-partial-implementation
 Espressso-II algorithm to simplificate Boolean Functions.
 
-The type to work with Espresso-II are done, but just a few functions are working.
+The types to work with Espresso-II are done, but just some functions are working.
 
 -Merge with Identity.
 -Merge with Containment.
